@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1606309458 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1606307537 c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\linkedlist.h
+
+1606307944 c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\bicicleta.h
+	"LinkedList.h"
+
+1606309831 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	<time.h>
+	"bicicleta.h"
+	"controller.h"
+
+1606309774 c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\controller.h
+
+1606309805 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+
+1606312161 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"validaciones.h"
+	<string.h>
+	"Controller.h"
+
+1606307409 c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\validaciones.h
+
+1606309747 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicleta.h"
+	"Controller.h"
+	"validaciones.h"
+	"parser.h"
+	<ctype.h>
+	<string.h>
+
+1606307411 c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\parser.h
+
+1606307411 source:c:\users\isma\desktop\ismaelspallettasplab\ismaelspallettalab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
